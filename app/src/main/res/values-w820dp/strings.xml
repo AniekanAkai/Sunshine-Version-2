@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dateString">Today</string>
+    <string name="weatherStatus">Sunny</string>
+    <string name="listItemValue">Today -- Sunny -- 22/7</string>
+</resources>

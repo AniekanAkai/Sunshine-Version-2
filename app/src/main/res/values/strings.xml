@@ -4,5 +4,9 @@
     <string name="app_name">Sunshine</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="dateString">%1$s, %2$s</string>
+    <string name="weatherStatus">%1$s</string>
+    <string name="temperatureValue">%1$s</string>
+    <string name="listItemValue">Today -- Sunny -- 22/7</string>
 
 </resources>
